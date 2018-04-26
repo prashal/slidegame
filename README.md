@@ -14,12 +14,18 @@ The project is developed in Microsoft Visual studio 2010 Express. To compile it 
 
 Snapshots :
 
-Number Puzzle, Easy Mode -
+1. Number Puzzle, Easy Mode -
+
 ![Alt text](snapshots/number_easy.png?raw=true "Number Puzzle, Easy Mode")
 
-Word Puzzle, Medium Mode-
+
+2. Word Puzzle, Medium Mode-
+
 ![Alt text](snapshots/word_medium.png?raw=true "Word Puzzle, Medium Mode")
 
-Image Puzzle, Easy Mode with Settings Dialog-
+
+3. Image Puzzle, Easy Mode with Settings Dialog-
+
 ![Alt text](snapshots/image_settings.png?raw=true "Image Puzzle, Easy Mode with Settings Dialog")
+
 
