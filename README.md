@@ -1,4 +1,4 @@
-# Slidegame by Prasanta
+# Slidegame
 Number, words and image slide puzzle game
 
 
@@ -29,3 +29,4 @@ Snapshots :
 ![Alt text](snapshots/image_settings.png?raw=true "Image Puzzle, Easy Mode with Settings Dialog")
 
 
+-Prasanta Halder
