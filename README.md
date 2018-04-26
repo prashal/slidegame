@@ -1,8 +1,6 @@
 # Slidegame
 Number, words and image slide puzzle game
 
-
-
 Compile :
 
 The project is developed in Microsoft Visual studio 2010 Express. To compile it -
